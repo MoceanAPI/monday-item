@@ -6,6 +6,8 @@
     - [Prerequisites](#prerequisites)
     - [Send SMS](#send-sms)
 - [Frequently Asked Questions](#faq)
+- [Feature Request](#feature-request)
+- [Feedback](#feedback)
 
 ## Installation
 
@@ -73,3 +75,6 @@ Do raise a support ticket with our Support Team at support@moceanapi.com.
 
 ## Feature Request
 Do raise a support ticket with our Support Team at support@moceanapi.com.
+
+## Feedback
+Send feedback to our Support Team at support@moceanapi.com.
