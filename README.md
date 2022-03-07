@@ -1,4 +1,4 @@
-# Mocean Monday Item App User Documentation
+# Mocean monday.com Item App User Documentation
 
 ## Contents
 - [Installation](#installation)
@@ -29,7 +29,7 @@
 
 ![image](https://user-images.githubusercontent.com/24620178/153541789-9bef40e4-977f-4ade-bcb2-cb84c2c6211c.png)
 
-6. After you've successfully authenticated, you will be redirected back to `Monday.com`
+6. After you've successfully authenticated, you will be redirected back to `monday.com`
 
 ## Usage
 ### Prerequisites
