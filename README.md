@@ -1,4 +1,4 @@
-# Mocean monday.com Item App User Documentation
+# Mocean monday.com Send SMS User Documentation
 
 ## Looking for other documentation ?
 - [MoceanAPI - SMS Broadcast Documentation](https://moceanapi.github.io/monday-dashboard/)
