@@ -57,7 +57,7 @@
 
 ## Whitelist IP Address
 
-For added security, you should whitelist `210.5.43.165` IP address in your [MoceanAPI Dashboard](https://dashboard.moceanapi.com)
+For added security, you should whitelist `192.168.4.1` IP address in your [MoceanAPI Dashboard](https://dashboard.moceanapi.com)
 
 To do so, follow these steps
 
