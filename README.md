@@ -42,18 +42,18 @@
 ### Prerequisites
 1. Before you can send SMS, you will need to specify the `Phone column` in the settings
 
-![image](https://user-images.githubusercontent.com/24620178/153554639-3dc0ae79-f042-4248-8412-f6dd23682bae.png)
+![image](https://user-images.githubusercontent.com/24620178/206369171-a8cc9fd1-a1f2-40f3-9bbf-d465bd0e7b95.png)
 
 ### Send SMS
 
 1. Our App will automatically populate the `Phone number` field if it detects a value in the specified `Phone Column`
 2. Compose the SMS you would like to send and click on Send SMS.
 
-![image](https://user-images.githubusercontent.com/24620178/153555066-f0901bfb-8cb5-4ac5-82d5-dd8169ac9552.png)
+![image](https://user-images.githubusercontent.com/24620178/206369417-55a58754-64b9-4101-96b4-b3c1562edcab.png)
 
 3. The SMS status will be shown at the bottom of the App
 
-![image](https://user-images.githubusercontent.com/24620178/153555448-944abccc-febf-4d28-b843-854d2a4bbfb1.png)
+![image](https://user-images.githubusercontent.com/24620178/206369493-eccac45f-c0fb-4f5d-b42f-27e633f32c71.png)
 
 ## Whitelist IP Address
 
