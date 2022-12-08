@@ -34,7 +34,7 @@
 
 5. Enter your Mocean API Credentials and the sender
 
-![image](https://user-images.githubusercontent.com/24620178/153541789-9bef40e4-977f-4ade-bcb2-cb84c2c6211c.png)
+![image](https://user-images.githubusercontent.com/24620178/206361287-89fdabaf-15ea-498a-9f22-4654b0653a38.png)
 
 6. After you've successfully authenticated, you will be redirected back to `monday.com`
 
