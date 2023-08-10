@@ -69,21 +69,23 @@ To do so, follow these steps
 ![image](https://user-images.githubusercontent.com/24620178/200761674-1ccb6e6c-2d7b-499d-bef6-ee47a3e2a624.png)
 
 ## FAQ
-1. Can I get Test Credits ?
+1. **Can I get Test Credits ?**
 
 You can get 20 FREE credits and credits are valid for 14 days. Subject to approval.
 
-2. Can I send international messages?
+2. **Can I send international messages?**
 
 Yes. We are an international SMS provider. You can send out SMS both locally and internationally based on our price list.
 
-3. What is the maximum characters per SMS I can put into the message?
+3. **What is the maximum characters per SMS I can put into the message?**
+   
 English messages can be up to 160 characters, while for Unicode text messages (including Arabic, Chinese, etc.), the limit is 70 characters.
 
-4. Can I send long message content?
+5. **Can I send long message content?**
+
 Yes, you can send long message content and your credit will be deducted based on the length of the message content.
 
-5. Is there a limit to how many numbers I can send at one time?
+6. **Is there a limit to how many numbers I can send at one time?**
 
 There is no limit on numbers to be sent in one go.
 
