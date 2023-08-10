@@ -89,7 +89,7 @@ Yes, you can send long message content and your credit will be deducted based on
 
 There is no limit on numbers to be sent in one go.
 
-6. What format does my phone number need to be in?
+7. **What format does my phone number need to be in?**
 
 Mobile phone numbers need to be entered in international formatting with the country code and without spaces, plus signs or leading zeros.
 
