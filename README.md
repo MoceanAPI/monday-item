@@ -78,14 +78,16 @@ You can get 20 FREE credits and credits are valid for 14 days. Subject to approv
 Yes. We are an international SMS provider. You can send out SMS both locally and internationally based on our price list.
 
 3. What is the maximum characters per SMS I can put into the message?
+English messages can be up to 160 characters, while for Unicode text messages (including Arabic, Chinese, etc.), the limit is 70 characters.
 
-160 characters for a normal text message, 70 characters for a Unicode text message (Arabic, Chinese, and etc)
+4. Can I send long message content?
+Yes, you can send long message content and your credit will be deducted based on the length of the message content.
 
-4. Is there a limit to how many numbers I can send at one time?
+5. Is there a limit to how many numbers I can send at one time?
 
 There is no limit on numbers to be sent in one go.
 
-5. What format does my phone number need to be in?
+6. What format does my phone number need to be in?
 
 Mobile phone numbers need to be entered in international formatting with the country code and without spaces, plus signs or leading zeros.
 
