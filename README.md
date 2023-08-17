@@ -93,6 +93,9 @@ There is no limit on numbers to be sent in one go.
 
 Mobile phone numbers need to be entered in international formatting with the country code and without spaces, plus signs or leading zeros.
 
+8. **What is the character limit for the sender/sender ID?**
+The alpha sender ID can be a maximum of 11 characters, while the numeric sender can consist of up to 15 digits.
+
 **Did not find what you're looking for ?**
 
 Do raise a support ticket with our Support Team at [support@moceanapi.com](mailto:support@moceanapi.com).
