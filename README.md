@@ -99,7 +99,7 @@ The alpha sender ID can be a maximum of 11 characters, while the numeric sender 
 
 9. **I attempted to send messages to US numbers, but they failed to be delivered. Why?**
     
-Message content that is not registered will result in a failure. To comply with US regulations, it's essential to buy a number and undergo a use case verification before you can send SMS to your customers. [SMS Compliance in United States](https://github.com/MoceanAPI/monday-two-way/blob/main/README.md#sms-compliance-in-united-states-us)
+Message content that is not registered will result in a failure. To comply with US regulations, it's essential to buy a number and undergo a use case verification before you can send SMS to your customers. [SMS Compliance in United States](https://github.com/MoceanAPI/monday-two-way#sms-compliance-in-united-states-us)
 
 **Did not find what you're looking for ?**
 
