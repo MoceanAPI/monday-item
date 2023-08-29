@@ -101,6 +101,28 @@ The alpha sender ID can be a maximum of 11 characters, while the numeric sender 
     
 Message content that is not registered will result in a failure. To comply with US regulations, it's essential to buy a number and undergo a use case verification before you can send SMS to your customers. [SMS Compliance in United States](https://github.com/MoceanAPI/monday-two-way#sms-compliance-in-united-states-us)
 
+10. **Can I utilize my personal mobile or landline number as the sender for SMS to the US?**
+    
+No, it's necessary to purchase a dedicated number, such as a Toll-Free Number, and complete the use case verification process.
+
+12. **I attempted to send messages to US numbers, but they failed to be delivered. Why?**
+    
+Message content that is not registered will result in a failure. To comply with US regulations, it's essential to buy a number and undergo a use case verification before you can send SMS to your customers.
+
+13. **How do I go about obtaining or purchasing a number in the US/Canada?**
+
+a) Complete the number registration form available here. (link them to download the form)
+
+b) Proceed with the payment.
+
+c) During the pending registration approval phase, a number will be provided for sending SMS on a smaller scale.
+
+d) After your registration is approved, you'll be able to send and receive SMS without volume limitations.
+
+14. **What is the expected timeframe for number approval?**
+    
+The duration varies, but typically it takes approximately a month or less.
+
 **Did not find what you're looking for ?**
 
 Do raise a support ticket with our Support Team at [support@moceanapi.com](mailto:support@moceanapi.com).
