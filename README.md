@@ -123,6 +123,10 @@ d) After your registration is approved, you'll be able to send and receive SMS w
     
 The duration varies, but typically it takes approximately a month or less.
 
+15. **Why my SMS failed to deliver ?**
+
+You may have set an invalid sender id, alphanumeric sender id must be less than 12 characters, numeric sender id must be less than 16 characters. Another common issue is you did not specify the correct phone number format including country code. eg: Country 60 for country malaysia, 60123456789
+
 **Did not find what you're looking for ?**
 
 Do raise a support ticket with our Support Team at [support@moceanapi.com](mailto:support@moceanapi.com).
