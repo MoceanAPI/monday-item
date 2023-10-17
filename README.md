@@ -12,6 +12,8 @@
 - [Usage](#usage)
     - [Prerequisites](#prerequisites)
     - [Send SMS](#send-sms)
+    - [SMS Templates](#sms-templates)
+        - [Use SMS Template in Send SMS app](#use-sms-template-in-send-sms-app)
 - [Whitelist IP Address](#whitelist-ip-address)
 - [Frequently Asked Questions](#faq)
 - [Feature Request](#feature-request)
@@ -55,6 +57,28 @@
 3. The SMS status will be shown at the bottom of the App
 
 ![image](https://user-images.githubusercontent.com/24620178/206369493-eccac45f-c0fb-4f5d-b42f-27e633f32c71.png)
+
+### SMS Templates
+
+1. Open the app and click on **Update API Credentials**
+
+2. Navigate to **SMS Templates** via Side navigation bar
+
+3. Click on the **Create** button to create a new SMS template
+
+![image](https://github.com/MoceanAPI/monday-item/assets/24620178/f783edda-c38c-4a27-8cb3-3e1e86a6dc75)
+
+4. Click on **Save** button to save your SMS template
+
+#### Use SMS Template in Send SMS app
+
+1. Open the Send SMS app
+
+2. Simply **select** the SMS Template you'd like to use in your message
+
+3. Click on **Send SMS** to send the SMS
+
+![image](https://github.com/MoceanAPI/monday-item/assets/24620178/44a4ef16-9f3b-42ef-830e-e4e460f3d0d4)
 
 ## Whitelist IP Address
 
