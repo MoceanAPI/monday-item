@@ -78,7 +78,7 @@
 
 3. Click on **Send SMS** to send the SMS
 
-![image](https://github.com/MoceanAPI/monday-item/assets/24620178/44a4ef16-9f3b-42ef-830e-e4e460f3d0d4)
+![image](https://github.com/MoceanAPI/monday-item/assets/24620178/3134012b-0a56-4025-b291-75a60dd9cc0b)
 
 ## Whitelist IP Address
 
