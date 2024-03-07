@@ -15,7 +15,7 @@
     - [SMS Templates](#sms-templates)
         - [Use SMS Template in Send SMS app](#use-sms-template-in-send-sms-app)
 - [Whitelist IP Address](#whitelist-ip-address)
-- [Frequently Asked Questions](#faq)
+- [Frequently Asked Questions (FAQ)](#faq)
 - [Feature Request](#feature-request)
 - [Feedback](#feedback)
 
