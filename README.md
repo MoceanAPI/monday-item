@@ -125,19 +125,19 @@ You may have set an invalid sender ID, alphanumeric sender ID must be less than 
 
 16. **I want to purchase SMS credits, how to top up my account?**
 Easy &amp; fast, just follow a few steps below:
-a) Login to your account at [https://dashboard.moceanapi.com/login](https://dashboard.moceanapi.com/login) 
-b) Go to Top Up page on left menu
-c) Select Payment
-d) Pay with credit card / PayPal
+1) Login to your account at [https://dashboard.moceanapi.com/login](https://dashboard.moceanapi.com/login) 
+2) Go to Top Up page on left menu
+3) Select Payment
+4) Pay with credit card / PayPal
 Your account will be credited instantly and enjoy texting!
 
-17. **Why I cannot buy a Virtual Number?**
+18. **Why I cannot buy a Virtual Number?**
 This is due to your account is under trial mode or has insufficient balance. Please top up before proceeding with number purchase.
 
-18. **Why I cannot get monday.com Notifications after receiving an SMS reply?**
+19. **Why I cannot get monday.com Notifications after receiving an SMS reply?**
 You will need to connect your Monday.com account with us. We have a video for you to follow along to connect your Monday.com account and MoceanAPI. Check it out [here](https://www.youtube.com/watch?v=P1DG6grBlQ0)
 
-19. **Do I need a Virtual Number to send 1-Way SMS?**
+20. **Do I need a Virtual Number to send 1-Way SMS?**
 No, you don’t need a Virtual Number to send 1-Way SMS, unless you are sending SMS to recipients in the US &amp; Canada.
 
 **Did not find what you're looking for ?**
