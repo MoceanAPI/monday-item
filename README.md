@@ -28,8 +28,8 @@
 ![image](https://user-images.githubusercontent.com/24620178/153553805-72da88e5-1482-473c-8822-6947d79db305.png)
 4. After installing the app, you will need to `Authenticate` your account
 ![image](https://user-images.githubusercontent.com/24620178/153554028-b92b902d-3758-43e6-a50f-7ddce1541673.png)
-5. Enter your Mocean API Credentials and the sender
-![image](https://user-images.githubusercontent.com/24620178/206361287-89fdabaf-15ea-498a-9f22-4654b0653a38.png)
+5. Enter your Mocean API Token and the sender. API key and secret can be left empty if an API token is used
+![image](https://github.com/user-attachments/assets/e4d16283-ab36-4940-8d68-688cc4a40ddb)
 6. After you've successfully authenticated, you will be redirected back to `monday.com`
 
 ## Usage
